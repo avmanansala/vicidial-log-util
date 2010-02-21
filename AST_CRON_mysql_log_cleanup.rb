@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 #Filename: AST_CRON_mysql_log_cleanup.rb
 #Description:
-# Clean-up all mysql related log files..
+# Clean-up all vicidial log months older than 3 months
 #
 #Copyright Angelito Manansala License GPL v2
 #lito@voicefidelity.net, avmanansala@gmail.com
